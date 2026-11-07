@@ -1,3 +1,8 @@
+
+-- Autor: Leandro de Oliveira Nunes
+-- Data ultima atualização: 01/11/2026
+-- Fundamentos, CRUD, Joins, Subqueries e Análises de Banco de Dados Relacional (MySQL)
+
 -- Mostrar bancos
 SHOW DATABASES;
 
